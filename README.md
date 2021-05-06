@@ -2,10 +2,9 @@
 
 ### se não possuir instale todas com o comando "pip install <nome da biblioteca>"
   
-# as bibliotecas necessarias são..
-
--lxml
--bs4
+## as bibliotecas necessarias são..
+### - lxml
+### - bs4
 
 ## com as dependencias do projeto instaladas execute o comando para execução do código.
 
